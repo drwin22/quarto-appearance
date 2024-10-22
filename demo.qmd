@@ -1,6 +1,6 @@
 ---
-title: "Appearance"
-subtitle: "For Reveal.js and Quarto"
+title: "Confidence Interval"
+subtitle: "Dr. Francois Nguyen"
 format:
   revealjs:
     code-overflow: wrap
