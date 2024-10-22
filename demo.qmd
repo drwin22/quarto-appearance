@@ -28,7 +28,7 @@ revealjs-plugins:
 
 ---
 
-# Why?
+# Topic for today: Confidence Interval
 
 ##
 In Powerpoint you can make slides with items that appear automatically and sequentially with effects. Appearance is a plugin for Reveal.js that does the same.
